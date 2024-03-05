@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-    printf("ciao/n");
+    printf("sbicca ti amo/n");
     return(0);
 }
